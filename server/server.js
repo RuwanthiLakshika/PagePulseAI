@@ -22,6 +22,9 @@ app.use(express.json());
 const clientDistPath = path.join(__dirname, '../client/dist');
 app.use(express.static(clientDistPath));
 
+// In-memory cache for audits to improve response times for duplicate URLs
+const auditCache = new Map();
+
 function isValidUrl(string) {
   try {
     new URL(string);
@@ -40,6 +43,13 @@ app.post('/api/audit', async (req, res) => {
 
   if (!isValidUrl(url)) {
     return res.status(400).json({ error: 'Invalid URL. Please enter a complete URL starting with http:// or https://.' });
+  }
+
+  // Check if we have a cached response for this exact URL
+  if (auditCache.has(url)) {
+    console.log(`Returning cached audit results for: ${url}`);
+    const cachedData = auditCache.get(url);
+    return res.status(200).json(cachedData);
   }
 
   console.log(`Starting audit for URL: ${url}`);
@@ -110,14 +120,19 @@ app.post('/api/audit', async (req, res) => {
       responseTime
     };
 
-    return res.status(200).json({
+    const responseData = {
       metrics,
       scores: aiData.scores,
       insights: aiData.insights,
       recommendations: aiData.recommendations,
       traceId,
       traceLog
-    });
+    };
+
+    // Store in cache
+    auditCache.set(url, responseData);
+
+    return res.status(200).json(responseData);
 
   } catch (err) {
     console.error('Unexpected server error during audit:', err);
