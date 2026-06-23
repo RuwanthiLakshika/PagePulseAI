@@ -1,0 +1,229 @@
+{
+  "traceId": "audit-001",
+  "timestamp": "2026-06-23T08:56:02.817Z",
+  "url": "https://travelsguide.lk/",
+  "model": "gemini-2.5-flash",
+  "systemPrompt": "You are an expert website auditor specializing in SEO, UX, content strategy, accessibility, and conversion optimization. Base all recommendations and evaluations strictly on the provided factual metrics, metadata, and page text content. Avoid general, vague statements; you must reference the specific numbers, headings, or missing elements detected in the provided context.",
+  "userPrompt": "URL: https://travelsguide.lk/\n\nEXTRACTED METRICS:\n- Total Word Count: 1437\n- Headings Count: H1: 5, H2: 23, H3: 0\n- Calls-To-Action (CTAs): 15\n- Links Count: Internal: 59, External: 2\n- Images: Total: 78, Missing Alt: 34 (44% missing alt text)\n\nMETADATA:\n- Meta Title: \"Visit Srilanka - Tourism Website\" (Length: 32 chars)\n- Meta Description: \"[Missing Description]\" (Length: 0 chars)\n\nPAGE LAYOUT & ELEMENTS:\n-- HEADINGS HIERARCHY OUTLINE --\n[H1] Let's The World Together!\n[H1] Find Your Perfect Tour\n[H1] Welcome to Sri Lanka\n[H2] Colombo\n[H2] Galle\n[H2] Kandy\n[H2] Nuwara Eliya\n[H2] Anuradhapura\n[H2] Polonnaruwa\n[H2] Badulla\n[H2] Trincomalee\n[H2] Jaffna\n[H2] Gampaha\n[H2] Kalutara\n[H2] Matara\n[H2] Hambantota\n[H2] Matale\n[H2] Camping\n[H2] Paragliding Tours\n[H2] Whale Watching\n[H2] Spa & Ayuruwedic Treatments\n[H2] Diving & Snorkeling\n[H2] Wildlife & Safari\n[H2] Mountain & Hill Hiking\n[H2] Surf and Swim in The Sea\n[H2] Visit Sri Lanka\n[H1] Tourism & Traveling Gallery.\n[H1] Our Newsletter\n\n-- DETECTED CALL-TO-ACTIONS --\n- [A] \"Contact\" (href: https://travelsguide.lk/contact/)\n- [BUTTON] \"Previous\" (href: none)\n- [BUTTON] \"Next\" (href: none)\n- [BUTTON] \"Search\" (href: none)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/1)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/2)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/13)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/15)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/16)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/17)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/18)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/19)\n- [A] \"View All Places\" (href: https://travelsguide.lk/category/43)\n- [BUTTON] \"Subscribe\" (href: none)\n- [A] \"Contact\" (href: https://travelsguide.lk/contact/)\n\nPAGE CONTENT PLAIN TEXT COPY:\n\"\"\"\nLoading... Discover Your Next Adventure Let's The World Together! Experience the Beauty, Heritage, and Charm of Sri Lanka Discover Your Next Adventure Find Your Perfect Tour Your Sri Lankan Dream Vacation Starts Here Discover Your Next Adventure Welcome to Sri Lanka Explore Scenic Landscapes, Timeless Traditions, and Vibrant Culture Previous Next Select category botanical garden Beach Waterfalls National Parks Museums Hiking Religious Places History and Culture Beach Select District Colombo Galle Kandy Nuwara Eliya Anuradhapura Polonnaruwa Badulla Trincomalee Jaffna Gampaha Kalutara Matara Hambantota Matale Kilinochchi Mannar Vavuniya Mullaitivu Batticaloa Ampara Puttalam Moneragala Ratnapura Kegalle Kurunegala Search Featured Destinations Explore the Most Enchanting Cities in Sri Lanka: Must-Visit Destinations for Memorable Adventures Colombo Galle Kandy Nuwara Eliya Anuradhapura Polonnaruwa Badulla Trincomalee Jaffna Gampaha Kalutara Matara Hambantota Matale Main Destination Find Your Perfect Travel Experience: Attractions, Stays, Activities, Cafes, and Restaurants Await! Central Province North Central Province Western Province Uva Province Southern Province Sabaragamuwa Province Eastern Province North Western Province Northern Province Explore Tour Discover Sri Lanka’s best attractions—adventure, culture, beaches, and city life—tailored to your interests. botanical garden View All Places Beach View All Places Waterfalls View All Places National Parks View All Places Museums View All Places Hiking View All Places Religious Places View All Places History and Culture View All Places Beach View All Places Things To Do in Sri Lanka Camping Paragliding Tours Whale Watching Spa & Ayuruwedic Treatments Diving & Snorkeling Wildlife & Safari Mountain & Hill Hiking Surf and Swim in The Sea Camping Camping in Sri Lanka offers an extraordinary experience for nature lovers and adventure seekers. With its diverse landscapes, you can choose from serene beachside campsites to lush forest hideaways. Imagine waking up to the sound of waves crashing at your tent in Yala National Park, where you can also spot exotic wildlife on a morning safari. Alternatively, set up camp in the cool, misty hills of Ella, surrounded by emerald tea plantations and picturesque views. Camping in Sri Lanka not only provides a cost-effective way to explore the island but also allows you to connect deeply with its natural beauty and rich biodiversity. Whether you are an experienced camper or a novice looking to try something new, Sri Lanka offers campsites and experiences to suit every need. Paragliding Tours Paragliding in Sri Lanka boasts an exhilarating adventure, combining the thrill of flight with the island's dramatic landscapes. With its favorable wind conditions and picturesque settings, Sri Lanka is emerging as a premier destination for paragliding enthusiasts. One of the most popular locations for paragliding is Koggala, where adventurers can soar over stunning beaches, verdant fields, and palm-fringed coastlines. For those seeking a more mountainous backdrop, the area around Ella offers breathtaking flights over scenic hill country, dotted with tea plantations and rugged terrain. Whether you are an experienced paraglider or a novice eager to take flight, Sri Lanka provides a memorable airborne experience filled with breathtaking views and the rush of adrenaline. Whale Watching Whale watching in Sri Lanka is a truly extraordinary experience, attracting marine enthusiasts from around the globe. The best places for whale watching are located along the southern and eastern coasts of the island, particularly in the towns of Mirissa and Trincomalee. These coastal regions are renowned for their high concentration of blue whales, the largest animals on Earth, making it one of the rare locations where visitors can consistently observe these magnificent creatures. In addition to blue whales, the waters around Sri Lanka are also frequented by sperm whales, Bryde's whales, and various dolphin species. Typically, Sri Lankan whale watching season runs from November to April in the south and from May to October in the east, offering ample opportunities to witness these giants of the sea in their natural habitat. The tours are conducted by experienced guides who provide insightful commentary, ensuring an educational and awe-inspiring journey through the azure waters of the Indian Ocean. Spa & Ayuruwedic Treatments Sri Lanka is also renowned for its spa and Ayurveda treatments, which offer a harmonious blend of ancient healing practices and modern wellness techniques. Ayurveda, often referred to as the \"science of life,\" is a holistic system of medicine that has been practiced in Sri Lanka for over 3,000 years. Ayurvedic treatments aim to balance the body, mind, and spirit through natural remedies, dietary guidance, and personalized therapies. Visitors can indulge in a variety of spa experiences, ranging from traditional Ayurvedic massages and herbal steam baths to more contemporary treatments like aromatherapy and hot stone massages. Many resorts and wellness centers across the island are equipped with skilled therapists who tailor treatments to individual needs, ensuring a rejuvenating and restorative experience. Diving & Snorkeling Diving and snorkeling in Sri Lanka promise an unparalleled underwater adventure, revealing a vibrant marine world teeming with life. The island's warm, crystal-clear waters are home to an astonishing variety of marine species, including colorful corals, majestic sea turtles, and an array of tropical fish. Diving: Dive sites such as the Great Basses Reef and the Bar Reef Marine Sanctuary offer fascinating underwater landscapes, from intricate coral structures to historic shipwrecks waiting to be explored. Snorkeling: For snorkelers, Pigeon Island and Unawatuna present shallow reefs easily accessible from the shore, allowing you to float above mesmerising aquatic gardens teeming with activity. Wildlife & Safari Sri Lanka, a verdant island nation in the Indian Ocean, offers a rich tapestry of wildlife and safari experiences that captivate nature enthusiasts and adventure seekers alike. The country's diverse ecosystems, ranging from dense tropical forests to arid plains, are home to an astonishing variety of fauna. Visitors can embark on safaris in renowned national parks such as Yala, Wilpattu, and Udawalawe, where sightings of majestic elephants, elusive leopards, and an array of bird species are almost guaranteed. Additionally, Sri Lanka's coastal regions provide a unique opportunity for witnessing marine life, including blue whales and dolphins. This unparalleled wildlife experience, coupled with the island's natural beauty, makes Sri Lanka a premier destination for an unforgettable safari adventure. Mountain & Hill Hiking Mountain and hill hiking in Sri Lanka offers an invigorating journey through some of the island's most breathtaking landscapes. The country's rugged terrain and verdant hill country provide ideal settings for hikers of all levels. Adam's Peak, or Sri Pada, is one of the most famous hiking destinations, attracting pilgrims and adventurers alike with its spiritual significance and stunning sunrise views. Breathtaking Scenery: Hiking in Sri Lanka provides unparalleled access to some of the most stunning landscapes in the world. From lush tea plantations and cascading waterfalls to misty mountains and pristine forests, each trail offers scenic vistas that are both diverse and captivating. Rich Biodiversity: The island's unique geography supports a wide range of flora and fauna, some of which are endemic to Sri Lanka. Hikers can encounter exotic wildlife such as elephants, leopards, and numerous bird species, making each trek a thrilling opportunity for wildlife enthusiasts and nature lovers. Surf and Swim in The Sea Sri Lanka's diverse coastlines cater to both surfing and swimming enthusiasts. Arugam Bay is a premier surfing destination known for its consistent waves and vibrant surf culture. Hikkaduwa, on the other hand, boasts calm and clear waters perfect for leisurely swimming and snorkelling. The warm tropical climate and stunning natural scenery make Sri Lanka an ideal getaway for water sports lovers seeking both adventure and relaxation. Enjoy the best of both worlds on this island paradise. Exceptional Water Activities: The beaches of Sri Lanka offer a diverse range of water activities, from world-class surfing at Arugam Bay to tranquil swimming and snorkelling at Hikkaduwa. Whether you seek thrilling waves or calm seas, there's something for every water enthusiast. Stunning Natural Scenery: Sri Lanka's coastline is not only about the water; the beaches are surrounded by breathtaking natural beauty. Lush greenery, pristine golden sands, and stunning sunsets create a picturesque backdrop that makes every visit a visual treat. Visit Sri Lanka Experience the Glory of this Beautiful Island Visit Sri Lanka to witness its outstanding beauty and hospitality. Known as the \"Paradise\" of the Indian Ocean, the country offers amazing natural resources and vibrant culture. Explore the serene beaches, historic landmarks, and tourist hotspots for an unforgettable journey. Begin your adventure today! Your browser does not support the video tag. Our Gallery Tourism & Traveling Gallery. Subscribe Our Newsletter Stay connected with the latest travel tips, destination guides, and exclusive offers by subscribing to our newsletter. Join our community and be the first to discover exciting adventures across Sri Lanka. Don’t miss out—subscribe now and let us inspire your next journey! Subscribe visitsrilankaplaces.com Designed By VISUAL LABS (PVT) LTD\n\"\"\"\n\n---\nAUDIT INSTRUCTIONS:\n1. Conduct a rigorous review covering the following 5 dimensions:\n   - SEO Structure: Critique page meta tags length, heading hierarchies, H1 usage, and image alt text presence.\n   - Messaging Clarity: Analyze the content depth, reading flow, and if the page copy is clear or wordy.\n   - CTA Usage: Evaluate the prominence, count, and labeling of action buttons based on the metrics.\n   - Content Depth: Critique if the word count is sufficient for the page type.\n   - UX Concerns: Highlight structural risks (e.g. missing H1, duplicate H1 tags, text-dense layout, missing CTAs).\n\n2. Generate 3 to 5 prioritized, actionable recommendations. Each recommendation must contain a priority (HIGH, MEDIUM, or LOW), a specific action item, and a clear reason grounded in the extracted metrics.\n\n3. Enforce the output JSON structure strictly. Ensure every insight directly cites the metrics provided (e.g., if you mention headings, mention that you detected H1/H2/H3 counts; if you mention accessibility, cite the alt-text percentage).\n",
+  "structuredInput": {
+    "metrics": {
+      "wordCount": 1437,
+      "headings": {
+        "h1": 5,
+        "h2": 23,
+        "h3": 0
+      },
+      "ctas": 15,
+      "links": {
+        "internal": 59,
+        "external": 2
+      },
+      "images": {
+        "total": 78,
+        "missingAlt": 34,
+        "missingAltPercent": 44
+      },
+      "metadata": {
+        "title": "Visit Srilanka - Tourism Website",
+        "description": ""
+      },
+      "headingsList": [
+        {
+          "type": "H1",
+          "text": "Let's The World Together!"
+        },
+        {
+          "type": "H1",
+          "text": "Find Your Perfect Tour"
+        },
+        {
+          "type": "H1",
+          "text": "Welcome to Sri Lanka"
+        },
+        {
+          "type": "H2",
+          "text": "Colombo"
+        },
+        {
+          "type": "H2",
+          "text": "Galle"
+        },
+        {
+          "type": "H2",
+          "text": "Kandy"
+        },
+        {
+          "type": "H2",
+          "text": "Nuwara Eliya"
+        },
+        {
+          "type": "H2",
+          "text": "Anuradhapura"
+        },
+        {
+          "type": "H2",
+          "text": "Polonnaruwa"
+        },
+        {
+          "type": "H2",
+          "text": "Badulla"
+        },
+        {
+          "type": "H2",
+          "text": "Trincomalee"
+        },
+        {
+          "type": "H2",
+          "text": "Jaffna"
+        },
+        {
+          "type": "H2",
+          "text": "Gampaha"
+        },
+        {
+          "type": "H2",
+          "text": "Kalutara"
+        },
+        {
+          "type": "H2",
+          "text": "Matara"
+        },
+        {
+          "type": "H2",
+          "text": "Hambantota"
+        },
+        {
+          "type": "H2",
+          "text": "Matale"
+        },
+        {
+          "type": "H2",
+          "text": "Camping"
+        },
+        {
+          "type": "H2",
+          "text": "Paragliding Tours"
+        },
+        {
+          "type": "H2",
+          "text": "Whale Watching"
+        },
+        {
+          "type": "H2",
+          "text": "Spa & Ayuruwedic Treatments"
+        },
+        {
+          "type": "H2",
+          "text": "Diving & Snorkeling"
+        },
+        {
+          "type": "H2",
+          "text": "Wildlife & Safari"
+        },
+        {
+          "type": "H2",
+          "text": "Mountain & Hill Hiking"
+        },
+        {
+          "type": "H2",
+          "text": "Surf and Swim in The Sea"
+        },
+        {
+          "type": "H2",
+          "text": "Visit Sri Lanka"
+        },
+        {
+          "type": "H1",
+          "text": "Tourism & Traveling Gallery."
+        },
+        {
+          "type": "H1",
+          "text": "Our Newsletter"
+        }
+      ],
+      "ctasList": [
+        {
+          "tagName": "A",
+          "text": "Contact",
+          "href": "https://travelsguide.lk/contact/"
+        },
+        {
+          "tagName": "BUTTON",
+          "text": "Previous",
+          "href": null
+        },
+        {
+          "tagName": "BUTTON",
+          "text": "Next",
+          "href": null
+        },
+        {
+          "tagName": "BUTTON",
+          "text": "Search",
+          "href": null
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/1"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/2"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/13"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/15"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/16"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/17"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/18"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/19"
+        },
+        {
+          "tagName": "A",
+          "text": "View All Places",
+          "href": "https://travelsguide.lk/category/43"
+        },
+        {
+          "tagName": "BUTTON",
+          "text": "Subscribe",
+          "href": null
+        },
+        {
+          "tagName": "A",
+          "text": "Contact",
+          "href": "https://travelsguide.lk/contact/"
+        }
+      ]
+    },
+    "metadata": {
+      "title": "Visit Srilanka - Tourism Website",
+      "description": ""
+    }
+  },
+  "rawOutput": "{\n  \"scores\": {\n    \"seo\": 35,\n    \"ux\": 60,\n    \"cta\": 80,\n    \"content\": 90,\n    \"overall\": 67\n  },\n  \"insights\": {\n    \"seo\": \"The meta title \\\"Visit Srilanka - Tourism Website\\\" is a good length at 32 characters. However, the meta description is entirely missing (0 characters), which is a critical SEO oversight. The page also suffers from a significant structural issue with 5 H1 tags detected, confusing search engine crawlers. Furthermore, 44% (34 out of 78) of images are missing alt text, impacting both SEO and accessibility.\",\n    \"messaging\": \"The page content is quite comprehensive with a total word count of 1437 words, providing detailed descriptions for various activities like Camping, Paragliding, and Whale Watching. The content flow is generally good, breaking down topics with 23 H2 headings. However, the phrase \\\"Discover Your Next Adventure\\\" is repeated multiple times, which can make the copy feel redundant and less engaging.\",\n    \"cta\": \"The page features a high number of calls-to-action (15 CTAs), including 'Contact', 'View All Places', 'Search', 'Subscribe', and navigation buttons. While the presence of CTAs is strong, the repetition of 'View All Places' (9 times) might dilute their individual impact and could potentially overwhelm users with similar options.\",\n    \"contentDepth\": \"With a total word count of 1437 words, the page offers substantial content depth. Each featured destination and 'Things To Do' activity is accompanied by a detailed paragraph, providing comprehensive information for potential travelers. This level of detail is excellent for informing users about various aspects of Sri Lankan tourism.\",\n    \"ux\": \"A major UX concern is the presence of 5 H1 tags, which creates a confusing hierarchy and can negatively impact readability and content scanning. Additionally, 44% of images are missing alt text, which is a significant accessibility barrier for users relying on screen readers. The absence of H3 headings, despite 23 H2s, suggests a flatter content structure that could be improved for better organization and user navigation.\"\n  },\n  \"recommendations\": [\n    {\n      \"priority\": \"HIGH\",\n      \"action\": \"Consolidate H1 tags and add a meta description.\",\n      \"reasoning\": \"The page currently uses 5 H1 tags, which confuses search engines and users, and lacks a meta description (0 characters), hindering organic visibility and click-through rates.\"\n    },\n    {\n      \"priority\": \"HIGH\",\n      \"action\": \"Implement descriptive alt text for all images.\",\n      \"reasoning\": \"44% (34 out of 78) of images are missing alt text, negatively impacting accessibility for screen reader users and reducing SEO value for image search.\"\n    },\n    {\n      \"priority\": \"MEDIUM\",\n      \"action\": \"Restructure heading hierarchy to include H3s.\",\n      \"reasoning\": \"The page uses 23 H2s but no H3s, indicating a flat content structure that could be improved for readability and SEO by breaking down H2 sections into more granular H3 sub-topics.\"\n    },\n    {\n      \"priority\": \"MEDIUM\",\n      \"action\": \"Review and optimize the 15 detected CTAs for clarity and uniqueness.\",\n      \"reasoning\": \"While 15 CTAs are present, many are repetitive ('View All Places' appears 9 times), which can dilute their impact and overwhelm users. Consolidate or diversify calls to action.\"\n    },\n    {\n      \"priority\": \"LOW\",\n      \"action\": \"Edit page copy to remove repetitive phrases.\",\n      \"reasoning\": \"Phrases like 'Discover Your Next Adventure' are repeated multiple times, which can make the content feel redundant and less engaging for the reader.\"\n    }\n  ]\n}",
+  "responseTime": 14613
+}
